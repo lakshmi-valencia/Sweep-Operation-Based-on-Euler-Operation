@@ -1,0 +1,13 @@
+﻿  glad.c
+  Brep.cpp
+  Euler.cpp
+  main.cpp
+E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\third_libraries\Include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\hw_test\main.cpp(30,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\hw_test\main.cpp(30,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Renderer.cpp
+E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\third_libraries\Include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Shader.cpp
+  SolidProcess.cpp
+  正在生成代码...
+  hw_test.vcxproj -> E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\hw_test\x64\Debug\hw_test.exe

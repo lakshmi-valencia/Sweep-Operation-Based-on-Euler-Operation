@@ -1,0 +1,2 @@
+F:\_Computer_Graphics\Learn_OpenGL\code\hw_test\x64\Debug\hw_test.exe
+E:\8_学校\1_课程文件\3_三维CAD建模\作业\mine\hw_test\x64\Debug\hw_test.exe
